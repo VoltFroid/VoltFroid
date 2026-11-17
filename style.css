@@ -389,7 +389,8 @@ body {
     }
 
     .hero img {
-        transform: scale(0.80);
+        transform: scale(0.67);
+        left: 0px;
     }
 
     .hero p {
