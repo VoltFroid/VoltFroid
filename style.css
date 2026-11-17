@@ -388,8 +388,8 @@ body {
         border-bottom: 1px solid var(--beige);
     }
 
-    .hero h1 {
-        font-size: 52px;
+    .hero img {
+        transform: scale(0.80);
     }
 
     .hero p {
